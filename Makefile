@@ -1,5 +1,5 @@
 image:
-	docker build -t mumoshu/terraform-ci:canary -f Dockerfile build/
+	docker build -t mumoshu/terraform-ci:0.11.10 -f Dockerfile build/
 
 push:
-	docker push mumoshu/terraform-ci:canary
+	docker push mumoshu/terraform-ci:0.11.10

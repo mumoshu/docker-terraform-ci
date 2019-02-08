@@ -1,6 +1,6 @@
 # Based on https://github.com/hashicorp/docker-hub-images/blob/master/terraform/Dockerfile-light
 
-FROM hashicorp/terraform:0.11.7
+FROM hashicorp/terraform:0.11.10
 
 MAINTAINER "Yusuke KUOKA <ykuoka@gmail.com>"
 
